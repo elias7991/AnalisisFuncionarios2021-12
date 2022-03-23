@@ -29,46 +29,42 @@ Guía completa en:
 
 #### Cantidad de funcionarios por institución
 
-![Grafico1](grafico1.png)
+![Grafico1](https://prnt.sc/ghpIrkd1GriK)
 
 ***Los gráficos de plotly pueden ser manipulados seleccionando áreas específicas que necesitamos ver***
 
 #### Topn del gráfico anterior
 
-![Grafico2](grafico2.png)
+![Grafico2](https://prnt.sc/XnvnJFhngRcS)
 
 #### Primer gráfico apilado por sexo
 
-![Grafico3](grafico3.png)
+![Grafico3](https://prnt.sc/4GOhxMmKhDnl)
 
 #### Promedio de edad por institución
 
-![Grafico4](grafico4.png)
+![Grafico4](https://prnt.sc/EBrWDAhj_cyu)
 
 #### Instituciones con promedios de edad más altos
 
-![Grafico5](grafico5.png)
+![Grafico5](https://prnt.sc/iMugXGZpsmyO)
 
 #### Instituciones con promedios de edad más bajos
 
-![Grafico6](grafico6.png)
+![Grafico6](https://prnt.sc/XEWUwyDIqlt-)
 
 #### Tipos de discapacidades
 
-![Grafico7](grafico7.png)
-
-#### Tipos de discapacidades
-
-![Grafico8](grafico8.png)
+![Grafico7](https://prnt.sc/jO0YD6VsuQru)
 
 #### Discapacitados por institución
 
-![Grafico9](grafico9.png)
+![Grafico8](https://prnt.sc/eWbF0s8Dy3Rz)
 
 #### Cantidad de discapacitados según antiguedad
 
-![Grafico10](grafico10.png)
+![Grafico9](https://prnt.sc/hue5wy8SpADp)
 
 #### Cantidad de ingresantes por año
 
-![Grafico11](grafico11.png)
+![Grafico10](https://prnt.sc/CJDPWYqgNvJx)
