@@ -25,3 +25,50 @@ Guía completa en:
 ```https://plotly.com/python/getting-started/```
 
 
+### Gráficos obtenidos
+
+#### Cantidad de funcionarios por institución
+
+![Grafico1](grafico1.png)
+
+***Los gráficos de plotly pueden ser manipulados seleccionando áreas específicas que necesitamos ver***
+
+#### Topn del gráfico anterior
+
+![Grafico2](grafico2.png)
+
+#### Primer gráfico apilado por sexo
+
+![Grafico3](grafico3.png)
+
+#### Promedio de edad por institución
+
+![Grafico4](grafico4.png)
+
+#### Instituciones con promedios de edad más altos
+
+![Grafico5](grafico5.png)
+
+#### Instituciones con promedios de edad más bajos
+
+![Grafico6](grafico6.png)
+
+#### Tipos de discapacidades
+
+![Grafico7](grafico7.png)
+
+#### Tipos de discapacidades
+
+![Grafico8](grafico8.png)
+
+#### Discapacitados por institución
+
+![Grafico9](grafico9.png)
+
+#### Cantidad de discapacitados según antiguedad
+
+![Grafico10](grafico10.png)
+
+#### Cantidad de ingresantes por año
+
+![Grafico11](grafico11.png)
